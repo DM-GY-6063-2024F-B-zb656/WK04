@@ -63,3 +63,9 @@ function draw() {}
 // } else {
 // do this thing
 // }
+
+
+function mouseClicked() {
+  print("hey. clicked");
+  setup();
+}
